@@ -1,2 +1,2 @@
-# Spelling-Bee
-Just a game where you can test your vocabulary skills
+# Spelling Bee
+Just a game that test your vocabulary skills
